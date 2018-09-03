@@ -30,6 +30,9 @@
 * PyInstaller
     * use spec file
 
+## DEMO
+![demo](demo/demo.png)
+
 ## License
 
 **MIT License** see more [LICENSE](LICENSE.md) file
